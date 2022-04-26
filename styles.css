@@ -1,0 +1,48 @@
+body {
+    color: black;
+    text-align: center;
+    font-family:  'Oswald', sans-serif;
+}
+
+img {
+    height: 350px;
+    width: 250px;
+}
+
+h1 {
+    font-size: 50px;
+}
+.start {
+    font-size: 50px;
+    background-color: #FFA500;
+    font-weight: 800;
+    padding: 20px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+}
+
+.Part-two-yes {
+    font-size: 50px;
+    font-weight: 800;
+    background-color: #90EE90;
+}
+
+
+ .Part-two-no{
+    font-size: 50px;
+    background-color: #FF7F50;
+    font-weight: 800;
+    padding: 0 20px;
+}
+
+
+
+
+.lastImage{
+    width:350px;
+}
+
+h1{}
